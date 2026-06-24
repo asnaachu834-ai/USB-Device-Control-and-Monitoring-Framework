@@ -1,0 +1,5 @@
+customtkinter
+wmi
+pywin32
+reportlab
+watchdog
